@@ -1,3 +1,3 @@
 Team Profile
-Team Name: Software Development Team
+Team Name: Web Development Team
 Members: Student A and Student B
